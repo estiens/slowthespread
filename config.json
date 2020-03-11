@@ -59,6 +59,114 @@
       "path": "./photos/close_the_schools/closetheschools4.jpg"
     }
   ],
+  "less_trips_out": [
+    {
+      "height": 360,
+      "compressed_path": "./photos/less_trips_out/lesstripsout3.min.jpg",
+      "width": 820,
+      "compressed": false,
+      "placeholder_path": "./photos/less_trips_out/lesstripsout3.placeholder.jpg",
+      "path": "./photos/less_trips_out/lesstripsout3.jpg"
+    },
+    {
+      "height": 360,
+      "compressed_path": "./photos/less_trips_out/lesstripsout2.min.jpg",
+      "width": 820,
+      "compressed": false,
+      "placeholder_path": "./photos/less_trips_out/lesstripsout2.placeholder.jpg",
+      "path": "./photos/less_trips_out/lesstripsout2.jpg"
+    },
+    {
+      "height": 360,
+      "compressed_path": "./photos/less_trips_out/lesstripsout5.min.jpg",
+      "width": 820,
+      "compressed": false,
+      "placeholder_path": "./photos/less_trips_out/lesstripsout5.placeholder.jpg",
+      "path": "./photos/less_trips_out/lesstripsout5.jpg"
+    },
+    {
+      "height": 360,
+      "compressed_path": "./photos/less_trips_out/lesstripsout4.min.jpg",
+      "width": 820,
+      "compressed": false,
+      "placeholder_path": "./photos/less_trips_out/lesstripsout4.placeholder.jpg",
+      "path": "./photos/less_trips_out/lesstripsout4.jpg"
+    },
+    {
+      "height": 360,
+      "compressed_path": "./photos/less_trips_out/lesstripsout7.min.jpg",
+      "width": 820,
+      "compressed": false,
+      "placeholder_path": "./photos/less_trips_out/lesstripsout7.placeholder.jpg",
+      "path": "./photos/less_trips_out/lesstripsout7.jpg"
+    }
+  ],
+  "stay_home_stay_safe_square": [
+    {
+      "height": 604,
+      "compressed_path": "./photos/stay_home_stay_safe_square/stayhomestaysafe8.min.jpg",
+      "width": 604,
+      "compressed": false,
+      "placeholder_path": "./photos/stay_home_stay_safe_square/stayhomestaysafe8.placeholder.jpg",
+      "path": "./photos/stay_home_stay_safe_square/stayhomestaysafe8.jpg"
+    },
+    {
+      "height": 604,
+      "compressed_path": "./photos/stay_home_stay_safe_square/stayhomestaysafesquare.min.jpg",
+      "width": 604,
+      "compressed": false,
+      "placeholder_path": "./photos/stay_home_stay_safe_square/stayhomestaysafesquare.placeholder.jpg",
+      "path": "./photos/stay_home_stay_safe_square/stayhomestaysafesquare.jpg"
+    },
+    {
+      "height": 604,
+      "compressed_path": "./photos/stay_home_stay_safe_square/stayhomestaysafesquare7.min.jpg",
+      "width": 604,
+      "compressed": false,
+      "placeholder_path": "./photos/stay_home_stay_safe_square/stayhomestaysafesquare7.placeholder.jpg",
+      "path": "./photos/stay_home_stay_safe_square/stayhomestaysafesquare7.jpg"
+    },
+    {
+      "height": 604,
+      "compressed_path": "./photos/stay_home_stay_safe_square/stayhomestaysafesquare6.min.jpg",
+      "width": 604,
+      "compressed": false,
+      "placeholder_path": "./photos/stay_home_stay_safe_square/stayhomestaysafesquare6.placeholder.jpg",
+      "path": "./photos/stay_home_stay_safe_square/stayhomestaysafesquare6.jpg"
+    },
+    {
+      "height": 604,
+      "compressed_path": "./photos/stay_home_stay_safe_square/stayhomestaysafesquare4.min.jpg",
+      "width": 604,
+      "compressed": false,
+      "placeholder_path": "./photos/stay_home_stay_safe_square/stayhomestaysafesquare4.placeholder.jpg",
+      "path": "./photos/stay_home_stay_safe_square/stayhomestaysafesquare4.jpg"
+    },
+    {
+      "height": 604,
+      "compressed_path": "./photos/stay_home_stay_safe_square/stayhomestaysafesquare5.min.jpg",
+      "width": 604,
+      "compressed": false,
+      "placeholder_path": "./photos/stay_home_stay_safe_square/stayhomestaysafesquare5.placeholder.jpg",
+      "path": "./photos/stay_home_stay_safe_square/stayhomestaysafesquare5.jpg"
+    },
+    {
+      "height": 604,
+      "compressed_path": "./photos/stay_home_stay_safe_square/stayhomestaysafe.min.jpg",
+      "width": 604,
+      "compressed": false,
+      "placeholder_path": "./photos/stay_home_stay_safe_square/stayhomestaysafe.placeholder.jpg",
+      "path": "./photos/stay_home_stay_safe_square/stayhomestaysafe.jpg"
+    },
+    {
+      "height": 604,
+      "compressed_path": "./photos/stay_home_stay_safe_square/stayhomestaysafesquare2.min.jpg",
+      "width": 604,
+      "compressed": false,
+      "placeholder_path": "./photos/stay_home_stay_safe_square/stayhomestaysafesquare2.placeholder.jpg",
+      "path": "./photos/stay_home_stay_safe_square/stayhomestaysafesquare2.jpg"
+    }
+  ],
   "no_large_gatherings": [
     {
       "height": 360,
@@ -117,48 +225,6 @@
       "path": "./photos/no_large_gatherings/nolargegatheringsfbcover2.jpg"
     }
   ],
-  "less_trips_out": [
-    {
-      "height": 360,
-      "compressed_path": "./photos/less_trips_out/lesstripsout3.min.jpg",
-      "width": 820,
-      "compressed": false,
-      "placeholder_path": "./photos/less_trips_out/lesstripsout3.placeholder.jpg",
-      "path": "./photos/less_trips_out/lesstripsout3.jpg"
-    },
-    {
-      "height": 360,
-      "compressed_path": "./photos/less_trips_out/lesstripsout2.min.jpg",
-      "width": 820,
-      "compressed": false,
-      "placeholder_path": "./photos/less_trips_out/lesstripsout2.placeholder.jpg",
-      "path": "./photos/less_trips_out/lesstripsout2.jpg"
-    },
-    {
-      "height": 360,
-      "compressed_path": "./photos/less_trips_out/lesstripsout5.min.jpg",
-      "width": 820,
-      "compressed": false,
-      "placeholder_path": "./photos/less_trips_out/lesstripsout5.placeholder.jpg",
-      "path": "./photos/less_trips_out/lesstripsout5.jpg"
-    },
-    {
-      "height": 360,
-      "compressed_path": "./photos/less_trips_out/lesstripsout4.min.jpg",
-      "width": 820,
-      "compressed": false,
-      "placeholder_path": "./photos/less_trips_out/lesstripsout4.placeholder.jpg",
-      "path": "./photos/less_trips_out/lesstripsout4.jpg"
-    },
-    {
-      "height": 360,
-      "compressed_path": "./photos/less_trips_out/lesstripsout7.min.jpg",
-      "width": 820,
-      "compressed": false,
-      "placeholder_path": "./photos/less_trips_out/lesstripsout7.placeholder.jpg",
-      "path": "./photos/less_trips_out/lesstripsout7.jpg"
-    }
-  ],
   "cancel_the_parade": [
     {
       "height": 360,
@@ -204,6 +270,14 @@
     }
   ],
   "stay_home_stay_safe": [
+    {
+      "height": 604,
+      "compressed_path": "./photos/stay_home_stay_safe/stayhomestaysafe8.min.jpg",
+      "width": 604,
+      "compressed": false,
+      "placeholder_path": "./photos/stay_home_stay_safe/stayhomestaysafe8.placeholder.jpg",
+      "path": "./photos/stay_home_stay_safe/stayhomestaysafe8.jpg"
+    },
     {
       "height": 360,
       "compressed_path": "./photos/stay_home_stay_safe/stayhomestaysafe6.min.jpg",
