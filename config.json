@@ -1,283 +1,282 @@
 {
-  "canceleverything": [
+  "help_out_hospitals": [
     {
       "height": 360,
-      "compressed_path": "./photos/canceleverything/canceleverything3.min.jpg",
+      "compressed_path": "./photos/help_out_hospitals/helpouthospitals2.min.jpg",
       "width": 820,
       "compressed": false,
-      "placeholder_path": "./photos/canceleverything/canceleverything3.placeholder.jpg",
-      "path": "./photos/canceleverything/canceleverything3.jpg"
+      "placeholder_path": "./photos/help_out_hospitals/helpouthospitals2.placeholder.jpg",
+      "path": "./photos/help_out_hospitals/helpouthospitals2.jpg"
+    },
+    {
+      "height": 360,
+      "compressed_path": "./photos/help_out_hospitals/helpouthospitals3.min.jpg",
+      "width": 820,
+      "compressed": false,
+      "placeholder_path": "./photos/help_out_hospitals/helpouthospitals3.placeholder.jpg",
+      "path": "./photos/help_out_hospitals/helpouthospitals3.jpg"
+    },
+    {
+      "height": 360,
+      "compressed_path": "./photos/help_out_hospitals/helpouthospitals.min.jpg",
+      "width": 820,
+      "compressed": false,
+      "placeholder_path": "./photos/help_out_hospitals/helpouthospitals.placeholder.jpg",
+      "path": "./photos/help_out_hospitals/helpouthospitals.jpg"
     }
   ],
-  "canceltheparade": [
+  "close_the_schools": [
     {
       "height": 360,
-      "compressed_path": "./photos/canceltheparade/canceltheparade3.min.jpg",
+      "compressed_path": "./photos/close_the_schools/closetheschools2.min.jpg",
       "width": 820,
       "compressed": false,
-      "placeholder_path": "./photos/canceltheparade/canceltheparade3.placeholder.jpg",
-      "path": "./photos/canceltheparade/canceltheparade3.jpg"
+      "placeholder_path": "./photos/close_the_schools/closetheschools2.placeholder.jpg",
+      "path": "./photos/close_the_schools/closetheschools2.jpg"
     },
     {
       "height": 360,
-      "compressed_path": "./photos/canceltheparade/canceltheparade2.min.jpg",
+      "compressed_path": "./photos/close_the_schools/closetheschools3.min.jpg",
       "width": 820,
       "compressed": false,
-      "placeholder_path": "./photos/canceltheparade/canceltheparade2.placeholder.jpg",
-      "path": "./photos/canceltheparade/canceltheparade2.jpg"
+      "placeholder_path": "./photos/close_the_schools/closetheschools3.placeholder.jpg",
+      "path": "./photos/close_the_schools/closetheschools3.jpg"
     },
     {
       "height": 360,
-      "compressed_path": "./photos/canceltheparade/cancetheparade.min.jpg",
+      "compressed_path": "./photos/close_the_schools/closetheschools.min.jpg",
       "width": 820,
       "compressed": false,
-      "placeholder_path": "./photos/canceltheparade/cancetheparade.placeholder.jpg",
-      "path": "./photos/canceltheparade/cancetheparade.jpg"
+      "placeholder_path": "./photos/close_the_schools/closetheschools.placeholder.jpg",
+      "path": "./photos/close_the_schools/closetheschools.jpg"
     },
     {
       "height": 360,
-      "compressed_path": "./photos/canceltheparade/canceltheparade.min.jpg",
+      "compressed_path": "./photos/close_the_schools/closetheschools4.min.jpg",
       "width": 820,
       "compressed": false,
-      "placeholder_path": "./photos/canceltheparade/canceltheparade.placeholder.jpg",
-      "path": "./photos/canceltheparade/canceltheparade.jpg"
+      "placeholder_path": "./photos/close_the_schools/closetheschools4.placeholder.jpg",
+      "path": "./photos/close_the_schools/closetheschools4.jpg"
     }
   ],
-  "nobigevents": [],
-  "workfromhome": [
+  "no_large_gatherings": [
     {
       "height": 360,
-      "compressed_path": "./photos/workfromhome/workfromhome2.min.jpg",
+      "compressed_path": "./photos/no_large_gatherings/nogatheringsfbcover3.min.jpg",
       "width": 820,
       "compressed": false,
-      "placeholder_path": "./photos/workfromhome/workfromhome2.placeholder.jpg",
-      "path": "./photos/workfromhome/workfromhome2.jpg"
+      "placeholder_path": "./photos/no_large_gatherings/nogatheringsfbcover3.placeholder.jpg",
+      "path": "./photos/no_large_gatherings/nogatheringsfbcover3.jpg"
     },
     {
       "height": 360,
-      "compressed_path": "./photos/workfromhome/workfromhome.min.jpg",
+      "compressed_path": "./photos/no_large_gatherings/nobigevents2.min.jpg",
       "width": 820,
       "compressed": false,
-      "placeholder_path": "./photos/workfromhome/workfromhome.placeholder.jpg",
-      "path": "./photos/workfromhome/workfromhome.jpg"
+      "placeholder_path": "./photos/no_large_gatherings/nobigevents2.placeholder.jpg",
+      "path": "./photos/no_large_gatherings/nobigevents2.jpg"
+    },
+    {
+      "height": 360,
+      "compressed_path": "./photos/no_large_gatherings/nogatheringsfbcover4.min.jpg",
+      "width": 820,
+      "compressed": false,
+      "placeholder_path": "./photos/no_large_gatherings/nogatheringsfbcover4.placeholder.jpg",
+      "path": "./photos/no_large_gatherings/nogatheringsfbcover4.jpg"
+    },
+    {
+      "height": 360,
+      "compressed_path": "./photos/no_large_gatherings/nobigevents3.min.jpg",
+      "width": 820,
+      "compressed": false,
+      "placeholder_path": "./photos/no_large_gatherings/nobigevents3.placeholder.jpg",
+      "path": "./photos/no_large_gatherings/nobigevents3.jpg"
+    },
+    {
+      "height": 360,
+      "compressed_path": "./photos/no_large_gatherings/nobigevents.min.jpg",
+      "width": 820,
+      "compressed": false,
+      "placeholder_path": "./photos/no_large_gatherings/nobigevents.placeholder.jpg",
+      "path": "./photos/no_large_gatherings/nobigevents.jpg"
+    },
+    {
+      "height": 360,
+      "compressed_path": "./photos/no_large_gatherings/nolargegatheringsfbcover.min.jpg",
+      "width": 820,
+      "compressed": false,
+      "placeholder_path": "./photos/no_large_gatherings/nolargegatheringsfbcover.placeholder.jpg",
+      "path": "./photos/no_large_gatherings/nolargegatheringsfbcover.jpg"
+    },
+    {
+      "height": 360,
+      "compressed_path": "./photos/no_large_gatherings/nolargegatheringsfbcover2.min.jpg",
+      "width": 820,
+      "compressed": false,
+      "placeholder_path": "./photos/no_large_gatherings/nolargegatheringsfbcover2.placeholder.jpg",
+      "path": "./photos/no_large_gatherings/nolargegatheringsfbcover2.jpg"
     }
   ],
-  "helpouthospitals": [
+  "less_trips_out": [
     {
       "height": 360,
-      "compressed_path": "./photos/helpouthospitals/helpouthospitals2.min.jpg",
+      "compressed_path": "./photos/less_trips_out/lesstripsout3.min.jpg",
       "width": 820,
       "compressed": false,
-      "placeholder_path": "./photos/helpouthospitals/helpouthospitals2.placeholder.jpg",
-      "path": "./photos/helpouthospitals/helpouthospitals2.jpg"
+      "placeholder_path": "./photos/less_trips_out/lesstripsout3.placeholder.jpg",
+      "path": "./photos/less_trips_out/lesstripsout3.jpg"
     },
     {
       "height": 360,
-      "compressed_path": "./photos/helpouthospitals/helpouthospitals3.min.jpg",
+      "compressed_path": "./photos/less_trips_out/lesstripsout2.min.jpg",
       "width": 820,
       "compressed": false,
-      "placeholder_path": "./photos/helpouthospitals/helpouthospitals3.placeholder.jpg",
-      "path": "./photos/helpouthospitals/helpouthospitals3.jpg"
+      "placeholder_path": "./photos/less_trips_out/lesstripsout2.placeholder.jpg",
+      "path": "./photos/less_trips_out/lesstripsout2.jpg"
     },
     {
       "height": 360,
-      "compressed_path": "./photos/helpouthospitals/helpouthospitals.min.jpg",
+      "compressed_path": "./photos/less_trips_out/lesstripsout5.min.jpg",
       "width": 820,
       "compressed": false,
-      "placeholder_path": "./photos/helpouthospitals/helpouthospitals.placeholder.jpg",
-      "path": "./photos/helpouthospitals/helpouthospitals.jpg"
+      "placeholder_path": "./photos/less_trips_out/lesstripsout5.placeholder.jpg",
+      "path": "./photos/less_trips_out/lesstripsout5.jpg"
+    },
+    {
+      "height": 360,
+      "compressed_path": "./photos/less_trips_out/lesstripsout4.min.jpg",
+      "width": 820,
+      "compressed": false,
+      "placeholder_path": "./photos/less_trips_out/lesstripsout4.placeholder.jpg",
+      "path": "./photos/less_trips_out/lesstripsout4.jpg"
+    },
+    {
+      "height": 360,
+      "compressed_path": "./photos/less_trips_out/lesstripsout7.min.jpg",
+      "width": 820,
+      "compressed": false,
+      "placeholder_path": "./photos/less_trips_out/lesstripsout7.placeholder.jpg",
+      "path": "./photos/less_trips_out/lesstripsout7.jpg"
     }
   ],
-  "nolargegatherings": [
+  "cancel_the_parade": [
     {
       "height": 360,
-      "compressed_path": "./photos/nolargegatherings/nogatheringsfbcover3.min.jpg",
+      "compressed_path": "./photos/cancel_the_parade/canceltheparade3.min.jpg",
       "width": 820,
       "compressed": false,
-      "placeholder_path": "./photos/nolargegatherings/nogatheringsfbcover3.placeholder.jpg",
-      "path": "./photos/nolargegatherings/nogatheringsfbcover3.jpg"
+      "placeholder_path": "./photos/cancel_the_parade/canceltheparade3.placeholder.jpg",
+      "path": "./photos/cancel_the_parade/canceltheparade3.jpg"
     },
     {
       "height": 360,
-      "compressed_path": "./photos/nolargegatherings/nobigevents2.min.jpg",
+      "compressed_path": "./photos/cancel_the_parade/canceltheparade2.min.jpg",
       "width": 820,
       "compressed": false,
-      "placeholder_path": "./photos/nolargegatherings/nobigevents2.placeholder.jpg",
-      "path": "./photos/nolargegatherings/nobigevents2.jpg"
+      "placeholder_path": "./photos/cancel_the_parade/canceltheparade2.placeholder.jpg",
+      "path": "./photos/cancel_the_parade/canceltheparade2.jpg"
     },
     {
       "height": 360,
-      "compressed_path": "./photos/nolargegatherings/nogatheringsfbcover4.min.jpg",
+      "compressed_path": "./photos/cancel_the_parade/cancetheparade.min.jpg",
       "width": 820,
       "compressed": false,
-      "placeholder_path": "./photos/nolargegatherings/nogatheringsfbcover4.placeholder.jpg",
-      "path": "./photos/nolargegatherings/nogatheringsfbcover4.jpg"
+      "placeholder_path": "./photos/cancel_the_parade/cancetheparade.placeholder.jpg",
+      "path": "./photos/cancel_the_parade/cancetheparade.jpg"
     },
     {
       "height": 360,
-      "compressed_path": "./photos/nolargegatherings/nobigevents3.min.jpg",
+      "compressed_path": "./photos/cancel_the_parade/canceltheparade.min.jpg",
       "width": 820,
       "compressed": false,
-      "placeholder_path": "./photos/nolargegatherings/nobigevents3.placeholder.jpg",
-      "path": "./photos/nolargegatherings/nobigevents3.jpg"
-    },
-    {
-      "height": 360,
-      "compressed_path": "./photos/nolargegatherings/nobigevents.min.jpg",
-      "width": 820,
-      "compressed": false,
-      "placeholder_path": "./photos/nolargegatherings/nobigevents.placeholder.jpg",
-      "path": "./photos/nolargegatherings/nobigevents.jpg"
-    },
-    {
-      "height": 360,
-      "compressed_path": "./photos/nolargegatherings/nolargegatheringsfbcover.min.jpg",
-      "width": 820,
-      "compressed": false,
-      "placeholder_path": "./photos/nolargegatherings/nolargegatheringsfbcover.placeholder.jpg",
-      "path": "./photos/nolargegatherings/nolargegatheringsfbcover.jpg"
-    },
-    {
-      "height": 360,
-      "compressed_path": "./photos/nolargegatherings/nolargegatheringsfbcover2.min.jpg",
-      "width": 820,
-      "compressed": false,
-      "placeholder_path": "./photos/nolargegatherings/nolargegatheringsfbcover2.placeholder.jpg",
-      "path": "./photos/nolargegatherings/nolargegatheringsfbcover2.jpg"
+      "placeholder_path": "./photos/cancel_the_parade/canceltheparade.placeholder.jpg",
+      "path": "./photos/cancel_the_parade/canceltheparade.jpg"
     }
   ],
-  "lesstripsout": [
+  "cancel_everything": [
     {
       "height": 360,
-      "compressed_path": "./photos/lesstripsout/lesstripsout3.min.jpg",
+      "compressed_path": "./photos/cancel_everything/canceleverything3.min.jpg",
       "width": 820,
       "compressed": false,
-      "placeholder_path": "./photos/lesstripsout/lesstripsout3.placeholder.jpg",
-      "path": "./photos/lesstripsout/lesstripsout3.jpg"
-    },
-    {
-      "height": 360,
-      "compressed_path": "./photos/lesstripsout/lesstripsout2.min.jpg",
-      "width": 820,
-      "compressed": false,
-      "placeholder_path": "./photos/lesstripsout/lesstripsout2.placeholder.jpg",
-      "path": "./photos/lesstripsout/lesstripsout2.jpg"
-    },
-    {
-      "height": 360,
-      "compressed_path": "./photos/lesstripsout/lesstripsout5.min.jpg",
-      "width": 820,
-      "compressed": false,
-      "placeholder_path": "./photos/lesstripsout/lesstripsout5.placeholder.jpg",
-      "path": "./photos/lesstripsout/lesstripsout5.jpg"
-    },
-    {
-      "height": 360,
-      "compressed_path": "./photos/lesstripsout/lesstripsout4.min.jpg",
-      "width": 820,
-      "compressed": false,
-      "placeholder_path": "./photos/lesstripsout/lesstripsout4.placeholder.jpg",
-      "path": "./photos/lesstripsout/lesstripsout4.jpg"
-    },
-    {
-      "height": 360,
-      "compressed_path": "./photos/lesstripsout/lesstripsout7.min.jpg",
-      "width": 820,
-      "compressed": false,
-      "placeholder_path": "./photos/lesstripsout/lesstripsout7.placeholder.jpg",
-      "path": "./photos/lesstripsout/lesstripsout7.jpg"
+      "placeholder_path": "./photos/cancel_everything/canceleverything3.placeholder.jpg",
+      "path": "./photos/cancel_everything/canceleverything3.jpg"
     }
   ],
-  "stayhomestaysafe": [
+  "stay_home_stay_safe": [
     {
       "height": 360,
-      "compressed_path": "./photos/stayhomestaysafe/stayhomestaysafe6.min.jpg",
+      "compressed_path": "./photos/stay_home_stay_safe/stayhomestaysafe6.min.jpg",
       "width": 820,
       "compressed": false,
-      "placeholder_path": "./photos/stayhomestaysafe/stayhomestaysafe6.placeholder.jpg",
-      "path": "./photos/stayhomestaysafe/stayhomestaysafe6.jpg"
+      "placeholder_path": "./photos/stay_home_stay_safe/stayhomestaysafe6.placeholder.jpg",
+      "path": "./photos/stay_home_stay_safe/stayhomestaysafe6.jpg"
     },
     {
       "height": 360,
-      "compressed_path": "./photos/stayhomestaysafe/stayhomestaysafe7.min.jpg",
+      "compressed_path": "./photos/stay_home_stay_safe/stayhomestaysafe7.min.jpg",
       "width": 820,
       "compressed": false,
-      "placeholder_path": "./photos/stayhomestaysafe/stayhomestaysafe7.placeholder.jpg",
-      "path": "./photos/stayhomestaysafe/stayhomestaysafe7.jpg"
+      "placeholder_path": "./photos/stay_home_stay_safe/stayhomestaysafe7.placeholder.jpg",
+      "path": "./photos/stay_home_stay_safe/stayhomestaysafe7.jpg"
     },
     {
       "height": 360,
-      "compressed_path": "./photos/stayhomestaysafe/stayhomestaysafe5.min.jpg",
+      "compressed_path": "./photos/stay_home_stay_safe/stayhomestaysafe5.min.jpg",
       "width": 820,
       "compressed": false,
-      "placeholder_path": "./photos/stayhomestaysafe/stayhomestaysafe5.placeholder.jpg",
-      "path": "./photos/stayhomestaysafe/stayhomestaysafe5.jpg"
+      "placeholder_path": "./photos/stay_home_stay_safe/stayhomestaysafe5.placeholder.jpg",
+      "path": "./photos/stay_home_stay_safe/stayhomestaysafe5.jpg"
     },
     {
       "height": 360,
-      "compressed_path": "./photos/stayhomestaysafe/stayhomestaysafe4.min.jpg",
+      "compressed_path": "./photos/stay_home_stay_safe/stayhomestaysafe4.min.jpg",
       "width": 820,
       "compressed": false,
-      "placeholder_path": "./photos/stayhomestaysafe/stayhomestaysafe4.placeholder.jpg",
-      "path": "./photos/stayhomestaysafe/stayhomestaysafe4.jpg"
+      "placeholder_path": "./photos/stay_home_stay_safe/stayhomestaysafe4.placeholder.jpg",
+      "path": "./photos/stay_home_stay_safe/stayhomestaysafe4.jpg"
     },
     {
       "height": 360,
-      "compressed_path": "./photos/stayhomestaysafe/stayhomestaysafe3.min.jpg",
+      "compressed_path": "./photos/stay_home_stay_safe/stayhomestaysafe3.min.jpg",
       "width": 820,
       "compressed": false,
-      "placeholder_path": "./photos/stayhomestaysafe/stayhomestaysafe3.placeholder.jpg",
-      "path": "./photos/stayhomestaysafe/stayhomestaysafe3.jpg"
+      "placeholder_path": "./photos/stay_home_stay_safe/stayhomestaysafe3.placeholder.jpg",
+      "path": "./photos/stay_home_stay_safe/stayhomestaysafe3.jpg"
     },
     {
       "height": 360,
-      "compressed_path": "./photos/stayhomestaysafe/stayhomestaysafe2.min.jpg",
+      "compressed_path": "./photos/stay_home_stay_safe/stayhomestaysafe2.min.jpg",
       "width": 820,
       "compressed": false,
-      "placeholder_path": "./photos/stayhomestaysafe/stayhomestaysafe2.placeholder.jpg",
-      "path": "./photos/stayhomestaysafe/stayhomestaysafe2.jpg"
+      "placeholder_path": "./photos/stay_home_stay_safe/stayhomestaysafe2.placeholder.jpg",
+      "path": "./photos/stay_home_stay_safe/stayhomestaysafe2.jpg"
     },
     {
       "height": 360,
-      "compressed_path": "./photos/stayhomestaysafe/stayhomestaysafe.min.jpg",
+      "compressed_path": "./photos/stay_home_stay_safe/stayhomestaysafe.min.jpg",
       "width": 820,
       "compressed": false,
-      "placeholder_path": "./photos/stayhomestaysafe/stayhomestaysafe.placeholder.jpg",
-      "path": "./photos/stayhomestaysafe/stayhomestaysafe.jpg"
+      "placeholder_path": "./photos/stay_home_stay_safe/stayhomestaysafe.placeholder.jpg",
+      "path": "./photos/stay_home_stay_safe/stayhomestaysafe.jpg"
     }
   ],
-  "closetheschools": [
+  "work_from_home": [
     {
       "height": 360,
-      "compressed_path": "./photos/closetheschools/closetheschools2.min.jpg",
+      "compressed_path": "./photos/work_from_home/workfromhome2.min.jpg",
       "width": 820,
       "compressed": false,
-      "placeholder_path": "./photos/closetheschools/closetheschools2.placeholder.jpg",
-      "path": "./photos/closetheschools/closetheschools2.jpg"
+      "placeholder_path": "./photos/work_from_home/workfromhome2.placeholder.jpg",
+      "path": "./photos/work_from_home/workfromhome2.jpg"
     },
     {
       "height": 360,
-      "compressed_path": "./photos/closetheschools/closetheschools3.min.jpg",
+      "compressed_path": "./photos/work_from_home/workfromhome.min.jpg",
       "width": 820,
       "compressed": false,
-      "placeholder_path": "./photos/closetheschools/closetheschools3.placeholder.jpg",
-      "path": "./photos/closetheschools/closetheschools3.jpg"
-    },
-    {
-      "height": 360,
-      "compressed_path": "./photos/closetheschools/closetheschools.min.jpg",
-      "width": 820,
-      "compressed": false,
-      "placeholder_path": "./photos/closetheschools/closetheschools.placeholder.jpg",
-      "path": "./photos/closetheschools/closetheschools.jpg"
-    },
-    {
-      "height": 360,
-      "compressed_path": "./photos/closetheschools/closetheschools4.min.jpg",
-      "width": 820,
-      "compressed": false,
-      "placeholder_path": "./photos/closetheschools/closetheschools4.placeholder.jpg",
-      "path": "./photos/closetheschools/closetheschools4.jpg"
+      "placeholder_path": "./photos/work_from_home/workfromhome.placeholder.jpg",
+      "path": "./photos/work_from_home/workfromhome.jpg"
     }
   ]
 }
