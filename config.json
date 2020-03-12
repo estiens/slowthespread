@@ -1,4 +1,117 @@
-{
+{"quarantine_and_chill": [
+  {
+    "height": 360,
+    "compressed_path": "./photos/quarantine_and_chill/quarantineandchill9.min.jpg",
+    "width": 820,
+    "compressed": false,
+    "placeholder_path": "./photos/quarantine_and_chill/quarantineandchill9.placeholder.jpg",
+    "path": "./photos/quarantine_and_chill/quarantineandchill9.jpg"
+  },
+  {
+    "height": 360,
+    "compressed_path": "./photos/quarantine_and_chill/quarantineandchill10.min.jpg",
+    "width": 820,
+    "compressed": false,
+    "placeholder_path": "./photos/quarantine_and_chill/quarantineandchill10.placeholder.jpg",
+    "path": "./photos/quarantine_and_chill/quarantineandchill10.jpg"
+  },
+  {
+    "height": 360,
+    "compressed_path": "./photos/quarantine_and_chill/quarantineandchill11.min.jpg",
+    "width": 820,
+    "compressed": false,
+    "placeholder_path": "./photos/quarantine_and_chill/quarantineandchill11.placeholder.jpg",
+    "path": "./photos/quarantine_and_chill/quarantineandchill11.jpg"
+  },
+  {
+    "height": 360,
+    "compressed_path": "./photos/quarantine_and_chill/quarantineandchill3.min.jpg",
+    "width": 820,
+    "compressed": false,
+    "placeholder_path": "./photos/quarantine_and_chill/quarantineandchill3.placeholder.jpg",
+    "path": "./photos/quarantine_and_chill/quarantineandchill3.jpg"
+  },
+  {
+    "height": 604,
+    "compressed_path": "./photos/quarantine_and_chill/quarantineandchillsquare5.min.jpg",
+    "width": 604,
+    "compressed": false,
+    "placeholder_path": "./photos/quarantine_and_chill/quarantineandchillsquare5.placeholder.jpg",
+    "path": "./photos/quarantine_and_chill/quarantineandchillsquare5.jpg"
+  },
+  {
+    "height": 604,
+    "compressed_path": "./photos/quarantine_and_chill/quarantineandchillsquare4.min.jpg",
+    "width": 604,
+    "compressed": false,
+    "placeholder_path": "./photos/quarantine_and_chill/quarantineandchillsquare4.placeholder.jpg",
+    "path": "./photos/quarantine_and_chill/quarantineandchillsquare4.jpg"
+  },
+  {
+    "height": 360,
+    "compressed_path": "./photos/quarantine_and_chill/quarantineandchill2.min.jpg",
+    "width": 820,
+    "compressed": false,
+    "placeholder_path": "./photos/quarantine_and_chill/quarantineandchill2.placeholder.jpg",
+    "path": "./photos/quarantine_and_chill/quarantineandchill2.jpg"
+  },
+  {
+    "height": 360,
+    "compressed_path": "./photos/quarantine_and_chill/quarantineandchill6.min.jpg",
+    "width": 820,
+    "compressed": false,
+    "placeholder_path": "./photos/quarantine_and_chill/quarantineandchill6.placeholder.jpg",
+    "path": "./photos/quarantine_and_chill/quarantineandchill6.jpg"
+  },
+  {
+    "height": 360,
+    "compressed_path": "./photos/quarantine_and_chill/quarantineandchill7.min.jpg",
+    "width": 820,
+    "compressed": false,
+    "placeholder_path": "./photos/quarantine_and_chill/quarantineandchill7.placeholder.jpg",
+    "path": "./photos/quarantine_and_chill/quarantineandchill7.jpg"
+  },
+  {
+    "height": 360,
+    "compressed_path": "./photos/quarantine_and_chill/quarantineandchill5.min.jpg",
+    "width": 820,
+    "compressed": false,
+    "placeholder_path": "./photos/quarantine_and_chill/quarantineandchill5.placeholder.jpg",
+    "path": "./photos/quarantine_and_chill/quarantineandchill5.jpg"
+  },
+  {
+    "height": 604,
+    "compressed_path": "./photos/quarantine_and_chill/quarantineandchillsquare3.min.jpg",
+    "width": 604,
+    "compressed": false,
+    "placeholder_path": "./photos/quarantine_and_chill/quarantineandchillsquare3.placeholder.jpg",
+    "path": "./photos/quarantine_and_chill/quarantineandchillsquare3.jpg"
+  },
+  {
+    "height": 604,
+    "compressed_path": "./photos/quarantine_and_chill/quarantineandchillsquare2.min.jpg",
+    "width": 604,
+    "compressed": false,
+    "placeholder_path": "./photos/quarantine_and_chill/quarantineandchillsquare2.placeholder.jpg",
+    "path": "./photos/quarantine_and_chill/quarantineandchillsquare2.jpg"
+  },
+  {
+    "height": 360,
+    "compressed_path": "./photos/quarantine_and_chill/quarantineandchill4.min.jpg",
+    "width": 820,
+    "compressed": false,
+    "placeholder_path": "./photos/quarantine_and_chill/quarantineandchill4.placeholder.jpg",
+    "path": "./photos/quarantine_and_chill/quarantineandchill4.jpg"
+  },
+  {
+    "height": 360,
+    "compressed_path": "./photos/quarantine_and_chill/quarantineandchill.min.jpg",
+    "width": 820,
+    "compressed": false,
+    "placeholder_path": "./photos/quarantine_and_chill/quarantineandchill.placeholder.jpg",
+    "path": "./photos/quarantine_and_chill/quarantineandchill.jpg"
+  }
+],
   "help_out_hospitals": [
     {
       "height": 360,
@@ -57,120 +170,6 @@
       "compressed": false,
       "placeholder_path": "./photos/close_the_schools/closetheschools4.placeholder.jpg",
       "path": "./photos/close_the_schools/closetheschools4.jpg"
-    }
-  ],
-  "quarantine_and_chill": [
-    {
-      "height": 360,
-      "compressed_path": "./photos/quarantine_and_chill/quarantineandchill9.min.jpg",
-      "width": 820,
-      "compressed": false,
-      "placeholder_path": "./photos/quarantine_and_chill/quarantineandchill9.placeholder.jpg",
-      "path": "./photos/quarantine_and_chill/quarantineandchill9.jpg"
-    },
-    {
-      "height": 360,
-      "compressed_path": "./photos/quarantine_and_chill/quarantineandchill10.min.jpg",
-      "width": 820,
-      "compressed": false,
-      "placeholder_path": "./photos/quarantine_and_chill/quarantineandchill10.placeholder.jpg",
-      "path": "./photos/quarantine_and_chill/quarantineandchill10.jpg"
-    },
-    {
-      "height": 360,
-      "compressed_path": "./photos/quarantine_and_chill/quarantineandchill11.min.jpg",
-      "width": 820,
-      "compressed": false,
-      "placeholder_path": "./photos/quarantine_and_chill/quarantineandchill11.placeholder.jpg",
-      "path": "./photos/quarantine_and_chill/quarantineandchill11.jpg"
-    },
-    {
-      "height": 360,
-      "compressed_path": "./photos/quarantine_and_chill/quarantineandchill3.min.jpg",
-      "width": 820,
-      "compressed": false,
-      "placeholder_path": "./photos/quarantine_and_chill/quarantineandchill3.placeholder.jpg",
-      "path": "./photos/quarantine_and_chill/quarantineandchill3.jpg"
-    },
-    {
-      "height": 604,
-      "compressed_path": "./photos/quarantine_and_chill/quarantineandchillsquare5.min.jpg",
-      "width": 604,
-      "compressed": false,
-      "placeholder_path": "./photos/quarantine_and_chill/quarantineandchillsquare5.placeholder.jpg",
-      "path": "./photos/quarantine_and_chill/quarantineandchillsquare5.jpg"
-    },
-    {
-      "height": 604,
-      "compressed_path": "./photos/quarantine_and_chill/quarantineandchillsquare4.min.jpg",
-      "width": 604,
-      "compressed": false,
-      "placeholder_path": "./photos/quarantine_and_chill/quarantineandchillsquare4.placeholder.jpg",
-      "path": "./photos/quarantine_and_chill/quarantineandchillsquare4.jpg"
-    },
-    {
-      "height": 360,
-      "compressed_path": "./photos/quarantine_and_chill/quarantineandchill2.min.jpg",
-      "width": 820,
-      "compressed": false,
-      "placeholder_path": "./photos/quarantine_and_chill/quarantineandchill2.placeholder.jpg",
-      "path": "./photos/quarantine_and_chill/quarantineandchill2.jpg"
-    },
-    {
-      "height": 360,
-      "compressed_path": "./photos/quarantine_and_chill/quarantineandchill6.min.jpg",
-      "width": 820,
-      "compressed": false,
-      "placeholder_path": "./photos/quarantine_and_chill/quarantineandchill6.placeholder.jpg",
-      "path": "./photos/quarantine_and_chill/quarantineandchill6.jpg"
-    },
-    {
-      "height": 360,
-      "compressed_path": "./photos/quarantine_and_chill/quarantineandchill7.min.jpg",
-      "width": 820,
-      "compressed": false,
-      "placeholder_path": "./photos/quarantine_and_chill/quarantineandchill7.placeholder.jpg",
-      "path": "./photos/quarantine_and_chill/quarantineandchill7.jpg"
-    },
-    {
-      "height": 360,
-      "compressed_path": "./photos/quarantine_and_chill/quarantineandchill5.min.jpg",
-      "width": 820,
-      "compressed": false,
-      "placeholder_path": "./photos/quarantine_and_chill/quarantineandchill5.placeholder.jpg",
-      "path": "./photos/quarantine_and_chill/quarantineandchill5.jpg"
-    },
-    {
-      "height": 604,
-      "compressed_path": "./photos/quarantine_and_chill/quarantineandchillsquare3.min.jpg",
-      "width": 604,
-      "compressed": false,
-      "placeholder_path": "./photos/quarantine_and_chill/quarantineandchillsquare3.placeholder.jpg",
-      "path": "./photos/quarantine_and_chill/quarantineandchillsquare3.jpg"
-    },
-    {
-      "height": 604,
-      "compressed_path": "./photos/quarantine_and_chill/quarantineandchillsquare2.min.jpg",
-      "width": 604,
-      "compressed": false,
-      "placeholder_path": "./photos/quarantine_and_chill/quarantineandchillsquare2.placeholder.jpg",
-      "path": "./photos/quarantine_and_chill/quarantineandchillsquare2.jpg"
-    },
-    {
-      "height": 360,
-      "compressed_path": "./photos/quarantine_and_chill/quarantineandchill4.min.jpg",
-      "width": 820,
-      "compressed": false,
-      "placeholder_path": "./photos/quarantine_and_chill/quarantineandchill4.placeholder.jpg",
-      "path": "./photos/quarantine_and_chill/quarantineandchill4.jpg"
-    },
-    {
-      "height": 360,
-      "compressed_path": "./photos/quarantine_and_chill/quarantineandchill.min.jpg",
-      "width": 820,
-      "compressed": false,
-      "placeholder_path": "./photos/quarantine_and_chill/quarantineandchill.placeholder.jpg",
-      "path": "./photos/quarantine_and_chill/quarantineandchill.jpg"
     }
   ],
   "less_trips_out": [
